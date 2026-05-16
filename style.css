@@ -1,4 +1,7 @@
 body {
     display: flex;
     flex-flow: column wrap;
+    font-family: Roboto;
+    color: #F9FAF8;
+    background-color: #1F2937;
 }
